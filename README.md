@@ -47,4 +47,4 @@ This Task Board project is open-source and released under the MIT License. You a
 
 ## Credits
 
-This Task Board project was created by [Your Name]. If you have any questions or feedback, please contact me at [your-email@example.com].
+This Task Board project was created by Eitan Lander. If you have any questions or feedback, please contact me at eitanlander@gmail.com.
