@@ -59,15 +59,6 @@ function save() {
     return;
   }
 
-  // Title Validation Only Letters On The Title :
-
-  const alphanumericRegex = /^[a-zA-Z0-9\s]+$/;
-
-  if (!alphanumericRegex.test(titleBox.value)) {
-    showError("Please use letters or numbers, in the title.🙄", titleBox);
-    return;
-  }
-
   // Description Validation And Error Message :
 
   if (descriptionBox.value === "") {
